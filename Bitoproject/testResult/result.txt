@@ -1,0 +1,9 @@
+DEMOQA page loaded succesfully
+Search Input box is displayed: true
+Image table header is displayed: true
+Title table header is displayed: true
+Author table header is displayed: true
+Publisher table header is displayed: true
+Book Title is displayed: true
+Textbox element is displayed: true
+Book search with title is successful
